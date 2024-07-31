@@ -1,0 +1,15 @@
+body {
+    background-image: url("image/iss_back.jpg");
+}
+
+h1, p {
+    text-align: center;
+    color: aliceblue;
+}
+
+#map { 
+    margin-left: auto;
+    margin-right: auto;
+    height: 600px; 
+    width: 800px;
+}
